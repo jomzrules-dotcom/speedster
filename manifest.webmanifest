@@ -1,0 +1,16 @@
+{
+  "name": "Speedster",
+  "short_name": "Speedster",
+  "description": "Booster-powered flying car racer: dodge traffic on a 3x3 grid of lanes.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#141a3a",
+  "theme_color": "#141a3a",
+  "icons": [
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
